@@ -57,3 +57,5 @@ out/
 # Directories
 .terraform/
 .vagrant/
+
+.DS_Store
